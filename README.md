@@ -5,7 +5,7 @@
 	and a user can use either a keyboard or a tux controller to play the game.  
 
 	Game Snapshot: 
-	![Screenshot](snapshot.png)
+![Screenshot](snapshot.png)
 
 
 Credits to Xinbo Wu
